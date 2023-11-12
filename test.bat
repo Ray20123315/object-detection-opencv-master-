@@ -1,0 +1,1 @@
+"C:/Users/eric chen/AppData/Local/Programs/Python/Python310/python.exe" d:/ray/object-detection-opencv-master/yolo_opencv.py -i %1 -c  yolov3.cfg -w yolov3.weights  -cl yolov3.txt
