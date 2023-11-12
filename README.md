@@ -10,5 +10,5 @@ https://drive.google.com/drive/folders/1xB_PNT1HKZ0fW7vhDot1XpdpXPq32KL7?usp=sha
 yolov3.weights:
 https://drive.google.com/file/d/1xWzLyiOWBx0qsTiz689FQJsky_mCxHRd/view?usp=sharing
 
-provider:
+reference:
 https://github.com/arunponnusamy/object-detection-opencv
