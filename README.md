@@ -1,5 +1,5 @@
 指令:
-& "C:/Users/eric chen/AppData/Local/Programs/Python/Python310/python.exe" d:/ray/object-detection-opencv-master/yolo_opencv.py -i {圖片檔名}.jpg -c  yolov3.cfg -w yolov3.weights  -cl yolov3.txt<P>
+& "C:/Users/user name/AppData/Local/Programs/Python/Python310/python.exe" d:/ray/object-detection-opencv-master/yolo_opencv.py -i {圖片檔名}.jpg -c  yolov3.cfg -w yolov3.weights  -cl yolov3.txt<P>
 
 指令簡化:
 ./test.bat {圖片檔名}.jpg
