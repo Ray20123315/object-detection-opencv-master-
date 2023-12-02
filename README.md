@@ -14,3 +14,6 @@ reference:
 https://github.com/arunponnusamy/object-detection-opencv
 
 !Different locations of python have different instructions.!
+
+
+https://ray20123315.blogspot.com/2023/12/blog-post.html
